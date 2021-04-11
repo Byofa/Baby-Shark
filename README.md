@@ -4,7 +4,8 @@ baby_shark allows a system administrator to delegate authority to give certain u
 
 ## Description
 
-For the Project by our school ETNA, we had to do a project in c that copy sudo.
+For a Hackathon Project by our school ETNA, we had to do a project in c that copy sudo.  
+Winner Project 🏆
 
 ## Getting Started
 
@@ -66,5 +67,5 @@ Fabio Machado   [Linkedin](https://www.linkedin.com/in/fabio-aires-machado/)
 
 ## License
 
-This project is an opensource, read the CGG of ETNA school Paris.
+This project is an opensource, read the CGV of [ETNA](https://etna.io/) school Paris.
 
